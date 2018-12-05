@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+ <dict>
+  <key>CFBundleInfoDictionaryVersion</key>
+  <string>6.0</string>
+
+  <key>CFBundleIconFile</key>
+  <string>Huawei Status.icns</string>
+  <key>CFBundleName</key>
+  <string>Huawei Status</string>
+  <key>CFBundleExecutable</key>
+  <string>run.sh</string>
+
+  <key>CFBundleVersion</key>
+  <string>1.0</string>
+  <key>CFBundleShortVersionString</key>
+  <string>1.0</string>
+
+  <key>CFBundlePackageType</key>
+  <string>APPL</string>
+  <key>CFBundleSignature</key>
+  <string>????</string>
+
+  <key>NSHumanReadableCopyright</key>
+  <string>Copyright (C) Jakub Pachciarek 2017</string>
+
+  <key>NSHighResolutionCapable</key>
+  <string>true</string>
+ </dict>
+</plist>
